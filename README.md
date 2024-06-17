@@ -1,5 +1,9 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil S2
+Me chamo Maria Clara
 
+Estudo na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
 <!--
 **MClara4/MClara4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
